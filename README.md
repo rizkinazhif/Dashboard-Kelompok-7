@@ -7,12 +7,13 @@ https://drive.google.com/drive/folders/1kN0U10hc5HO2bI9m9Hq_RkxH7OhGTks2?usp=sha
 Ekstrak dan gabung file R, js dan data tersebut menjadi satu folder
 
 Kelompok 7
-FARADILLA ANASTASYA
 
-MUFTI RIZKI ABDILLAH
+1. FARADILLA ANASTASYA
 
-REYHAN SAADI
+2. MUFTI RIZKI ABDILLAH
 
-RIZKI NAZHIF NUR
+3. REYHAN SAADI
 
-XAFRILLAH AGNES NALA AYU
+4. RIZKI NAZHIF NUR
+
+5. XAFRILLAH AGNES NALA AYU
