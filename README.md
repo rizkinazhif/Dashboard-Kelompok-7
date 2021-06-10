@@ -8,7 +8,11 @@ Ekstrak dan gabung file R, js dan data tersebut menjadi satu folder
 
 Kelompok 7
 FARADILLA ANASTASYA
+
 MUFTI RIZKI ABDILLAH
+
 REYHAN SAADI
+
 RIZKI NAZHIF NUR
+
 XAFRILLAH AGNES NALA AYU
